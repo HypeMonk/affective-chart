@@ -1,0 +1,6 @@
+{
+"prompt": "A lone mountain hiker slowly descending a steep rocky slope completely covered in dense fog, unable to see the valley below. The hiker carefully tests each step with a trekking pole, feeling the slope beneath their boots and moving cautiously downhill. The surrounding terrain fades into thick mist so the destination is invisible, forcing the hiker to rely only on the immediate slope of the ground. Rugged mountain terrain, uneven rocks and grass, natural overcast daylight, realistic outdoor photography style, physically plausible landscape scene, cinematic depth but grounded realism. Single human subject navigating the slope step by step, emphasizing careful incremental movement downhill. No text, no diagrams, no symbols, no annotations, no labels. NEGATIVE PROMPT: charts, graphs, equations, numbers, diagrams, mathematical notation, labels, text overlays, UI elements, glowing AI effects, digital networks, sci-fi elements, abstract symbols, futuristic interfaces, unrealistic landscapes",
+"model": "DALL·E 3",
+"concept": "gradient descent",
+"metaphor": "A hiker descending a fog-covered mountain slope represents gradient descent, where optimization proceeds step-by-step using only the local slope without seeing the global minimum."
+}
