@@ -1,0 +1,6 @@
+{
+"prompt": "A vast dark landscape filled with hundreds of floating lanterns drifting in the night air. One brilliant lantern naturally attracts a dense cluster of nearby lights orbiting around it, while most distant lanterns remain isolated and loosely scattered across the darkness. The composition reveals an uneven structure where one lantern dominates the attention and connections of the surrounding lights, creating a subtle and uncanny imbalance across the scene. NEGATIVE PROMPT: network diagrams, glowing connection lines, charts, graphs, numbers, text, mathematical symbols, UI elements, futuristic dashboards",
+"model": "DALL·E 3",
+"paradox": "Friendship Paradox",
+"visual_logic": "Lanterns cluster densely around one bright hub while most remain isolated in the darkness, visually revealing how highly connected nodes dominate perceived networks."
+}
