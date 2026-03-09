@@ -1,0 +1,8 @@
+{
+"prompt": "A Soviet Constructivist propaganda-style poster composition from the 1920s showing a massive crowd of workers forming a large geometric red shape dominating the scene, while a very small isolated group stands apart on the opposite side. Bold diagonal composition, limited red black and beige color palette, strong geometric forms, dramatic perspective typical of Soviet Constructivist posters. Graphic design style inspired by early Soviet propaganda artists with flat shapes and dynamic composition. NEGATIVE PROMPT: modern digital style, photorealism, glowing effects, gradients, 3D rendering, charts, graphs, equations, UI elements",
+"model": "DALL·E 3",
+"concept": "class imbalance",
+"tradition_name": "Soviet Constructivist poster design",
+"tradition_period": "1920s–1930s",
+"tradition_approach": "Bold diagonal composition, limited red-black palette, geometric propaganda forms and mass worker imagery typical of Soviet Constructivist posters to represent a dominant majority versus a small minority class."
+}
